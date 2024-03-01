@@ -7,7 +7,6 @@
 
 ![Animation - 1709331579085](https://github.com/GeniusApk/GeniusApk/assets/101592615/9266a8ff-fa85-4ecc-9284-4fc37bface92)
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniusapk&label=Profile%20views&color=0e75b6&style=flat" alt="geniusapk" /> </p>
