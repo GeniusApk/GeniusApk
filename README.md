@@ -5,8 +5,6 @@
 <h3 align="center">A passionate Android App developer from New Delhi, India</h3>
 
 
-![Animation - 1709331579085](https://github.com/GeniusApk/GeniusApk/assets/101592615/9266a8ff-fa85-4ecc-9284-4fc37bface92)
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniusapk&label=Profile%20views&color=0e75b6&style=flat" alt="geniusapk" /> </p>
