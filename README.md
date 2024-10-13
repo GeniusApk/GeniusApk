@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohdaakib_21" target="blank"><img src="https://img.shields.io/twitter/follow/mohdaakib_21?logo=twitter&style=for-the-badge" alt="mohdaakib_21" /></a> </p>
 
-- 🌱 I’m currently learning **Koitlin , JetpackCmpose**
+- 🌱 I’m currently learning **Koitlin , JetpackCompose**
 
 - 📫 How to reach me **mohd.aakib208381@gmail.com**
 
